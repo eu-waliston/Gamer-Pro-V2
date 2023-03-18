@@ -6,7 +6,7 @@ const Nav = () => {
     <div class="navbar">
       <div class="container flex">
         <a href="#" class="navbar-brand">
-          Pro<span>Gamer</span>
+        Gamer<span>Pro</span>
         </a>
 
         <div class="navbar-collapse">

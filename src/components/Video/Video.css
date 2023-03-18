@@ -1,0 +1,16 @@
+#videos .title {
+    background-color: var(--green-color);
+}
+
+#videos article {
+    border-bottom: 2px solid var(--green-color);
+}
+
+#videos .item-video video {
+    width: 100%;
+    border-radius: .4rem;
+}
+
+#videos .category {
+    background-color: var(--green-color);
+}
