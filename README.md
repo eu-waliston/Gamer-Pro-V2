@@ -22,13 +22,6 @@ Project: https://gamer-pro-v2.vercel.app/
   <br>
 
 
-  <p> "Mobile" </p>
-
-https://user-images.githubusercontent.com/82295321/147366201-57727a45-2fbb-4840-99e1-aff1580f8356.mp4
-
-
-
-
 
 
 
